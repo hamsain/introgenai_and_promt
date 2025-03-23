@@ -1,6 +1,7 @@
 # Virtual environtment and models
 .venv/
 models/
+doc_index/
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
